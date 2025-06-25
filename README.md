@@ -1,6 +1,6 @@
 📊 Comprehensive Analysis and Dietary Strategies with Tableau
 A College Food Choices Case Study
-This project presents a data-driven exploration into the dietary habits of college students using Tableau. The goal is to provide educational institutions with interactive visualizations that uncover nutrition trends, identify deficiencies, and support evidence-based strategies to improve student health and academic performance.
+This project was done as part of a data visualization case study using Tableau. The main goal was to understand and present how college students eat, how they feel about their food, and how it affects their health. All the dashboards and the story were created by me based on survey data.
 
 🎯 Project Objectives
 Transform raw dietary data into actionable visual insights
