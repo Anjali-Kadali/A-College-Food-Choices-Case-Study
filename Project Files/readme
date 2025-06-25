@@ -1,1 +1,15 @@
+📊 Tableau Dashboard Web Integration with Flask
+This project embeds an interactive Tableau Public dashboard into a web interface using Flask.
+It serves a custom HTML UI via Flask and displays the dashboard using an <iframe>.
+The backend is built with Python and Flask, while the frontend uses basic HTML.
+Useful for showcasing Tableau stories in personalized dashboards or portfolios.
+To run the app:
+
+Install Flask (pip install flask)
+
+Run app.py
+
+Open http://localhost:1212 in your browser
+
+Dashboard appears with a clean UI and title
 
